@@ -1,0 +1,13 @@
+server.port=8080
+
+# MySQL ??
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driveer
+    url: jdbc:mysql://localhost:3306/testDB
+    username: root
+    password: 1234
+
+#spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+# DB Source URL
