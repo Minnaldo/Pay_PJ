@@ -11,3 +11,5 @@ spring:
 #spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
 # DB Source URL
+# DB username
+# DB password
